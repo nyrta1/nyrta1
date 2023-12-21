@@ -4,7 +4,7 @@
 - 👀 I’m interested in creating full-featured projects using Java, Spring Boot Framework and Angular 16. I really like listening to music.By the way, I'm a music lover :)
 - 🌱 I’m currently learning Spring Boot and Angular 16
 - 💬 Ask me about **Java And Angular**
-- 📝 Get to know me better with my CV [Curriculum Vitae](https://nyrta1.github.io/Curriculum-Vitae/) 
+- 📝 Get to know me better with my [CV](https://nyrta1.github.io/Curriculum-Vitae/) 
 - 📫 How to reach me [https://t.me/nyrta1](https://t.me/nyrta1)
 
 <h3 align="left">Languages and Tools:</h3>
