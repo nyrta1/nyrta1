@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Spring Boot and Angular 16
 - 💬 Ask me about **Java And Angular**
 - 🏫 I'm a bachelor's student at [Astana IT University](https://astanait.edu.kz/)
-- 📝 Get to know me better with my [CV](https://nyrta1.github.io/Curriculum-Vitae/) 
+- 📝 Get to know me better with my [CV](https://nyrta1.github.io/CV/) 
 - 📫 How to reach me [https://t.me/nyrta1](https://t.me/nyrta1)
 
 <h3 align="left">Languages and Tools:</h3>
