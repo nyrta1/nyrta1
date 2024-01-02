@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Summary Card:</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyrta1&theme=blueberry" alt="Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyrta1&theme=blueberry" alt="Profile Details" style="width: 100%; height: 100%;">
 
 <!---
 nyrta1/nyrta1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
