@@ -29,7 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender"  width="40" height="40"/>
 </p>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyrta1&theme=2077)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyrta1&theme=blueberry" alt="Profile Details" style="width: 120%; height: 120%;">
 
 <!---
 nyrta1/nyrta1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
