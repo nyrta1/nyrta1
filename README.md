@@ -29,6 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender"  width="40" height="40"/>
 </p>
 
+<h3 align="left">Summary Card:</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyrta1&theme=blueberry" alt="Profile Details" style="width: 120%; height: 120%;">
 
 <!---
