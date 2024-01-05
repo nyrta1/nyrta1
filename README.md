@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurtai</h1>
-<h3 align="center">A Java Developer From Kazakhstan</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+Java+Developer+From+Kazakhstan)](https://git.io/typing-svg)</h3>
 
 - 👀 I’m interested in creating full-stack projects using Java, Spring Boot Framework and Angular 16. I really like listening to music. By the way, I'm a music lover :)
 - 🌱 I’m currently learning Spring Boot and Angular 16
