@@ -29,7 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender"  width="40" height="40"/>
 </p>
 
-
+[![Gohit Bastian - Graph](https://github-readme-activity-graph.vercel.app/graph?username=nyrta1&bg_color=0d1117&color=ffffff&line=00b4ab&point=f9fafa&area=true&hide_border=true)]
 <h3 align="left">Summary Card:</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b4ab&point=f9fafa&area=true&hide_border=true#" alt="Profile Details" style="width: 100%; height: 100%;">
 <div style="display: flex;">
