@@ -29,11 +29,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender"  width="40" height="40"/>
 </p>
 
+
 <h3 align="left">Summary Card:</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyrta1&theme=blueberry#" alt="Profile Details" style="width: 100%; height: 100%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b4ab&point=f9fafa&area=true&hide_border=true#" alt="Profile Details" style="width: 100%; height: 100%;">
 <div style="display: flex;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyrta1&theme=2077#" alt="Stats" style="width: 49%; height: 49%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyrta1&theme=2077#" alt="Top Languages by Commit" style="width: 49%; height: 49%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyrta1&bg_color=0d1117&color=ffffff&line=00b4ab&point=f9fafa&area=true&hide_border=true#" alt="Stats" style="width: 49%; height: 49%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyrta1&bg_color=0d1117&color=ffffff&line=00b4ab&point=f9fafa&area=true&hide_border=true#" alt="Top Languages by Commit" style="width: 49%; height: 49%;">
 </div>
 
 <!---
