@@ -28,7 +28,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs"  width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes"  width="40" height="40"/>
