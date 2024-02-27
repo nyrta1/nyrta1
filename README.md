@@ -11,6 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" alt="goland"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java"  width="40" height="40"/>
@@ -18,15 +19,20 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" alt="swagger"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js"  width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="postman"  width="40" height="40"/>
 </p>
 
 <h3 align="left">Summary Card:</h3>
