@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurtai</h1>
 <h3 align="center">Java Developer From Kazakhstan</h3>
 
-- 👀 I’m interested in creating full-stack projects using Java, Spring Boot Framework and Angular 16. I really like listening to music. By the way, I'm a music lover :)
+- 👀 I’m interested in creating full-stack projects using Java, Spring Boot Framework and Angular 16.
 - 🌱 I’m currently learning Spring Boot and Angular 16
 - 💬 Ask me about **Java And Angular**
 - 🏫 I'm a bachelor's student at [Astana IT University](https://astanait.edu.kz/)
