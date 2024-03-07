@@ -12,6 +12,7 @@
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" alt="goland"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java"  width="40" height="40"/>
