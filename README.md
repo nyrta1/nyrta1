@@ -33,7 +33,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes"  width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="postman"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman"  width="40" height="40"/>
 </p>
 
 <h3 align="left">Summary Card:</h3>
