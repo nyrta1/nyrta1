@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurtai</h1>
-<h3 align="center">Java Developer From Kazakhstan</h3>
+<h3 align="center">Java / Golang Developer From Kazakhstan</h3>
 
 - 👀 I’m interested in creating full-stack projects using Java, Spring Boot Framework and Angular 16.
 - 🌱 I’m currently learning Spring Boot and ReactJS
