@@ -34,6 +34,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="supabase"  width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" alt="flutterflow"  width="40" height="40"/>
 </p>
 
 <h3 align="left">Summary Card:</h3>
