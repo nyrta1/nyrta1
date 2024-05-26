@@ -36,6 +36,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="supabase"  width="40" height="40"/>
     <img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" alt="flutterflow"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws"  width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" alt="dart"  width="40" height="40"/>
 </p>
 
 <h3 align="left">Summary Card:</h3>
